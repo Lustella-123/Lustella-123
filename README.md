@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lustella-123
 - 👀 I’m interested in ... Web development!
-- 🌱 I’m currently learning ... The Web Developer - Udemy
+- 🌱 I’m currently learning ... 내일배움캠프 스파르타 부트캠프
 - 💞️ I’m looking to collaborate on ... NaN,,
 - 📫 How to reach me ... tella4164@gmail.com
 - 😄 Pronouns: ... NaN,,
