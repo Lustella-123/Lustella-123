@@ -29,7 +29,7 @@
 ### 🛠 주요 프로젝트
 
 #### 🌍 RealQ - 실시간 대기질 알림 시스템
-[🔗 GitHub Repo](https://github.com/Lustella-123/RealQ) | [🔗 웹페이지](realq.duckdns.org)
+[🔗 GitHub Repo](https://github.com/Lustella-123/RealQ) | [🔗 웹페이지](http://realq.duckdns.org)
 
 - 에어코리아 API 기반, 측정소 대기질 수집 및 Slack 알림 자동화
 - WebClient 인코딩 처리, API 누락 해결 등 트러블슈팅 경험
